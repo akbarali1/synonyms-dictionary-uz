@@ -1,2 +1,2 @@
 # synonyms-dictionary-uz
-Intenrnet magazinlaru chun sinonim so`zlar
+Internet magazinlar uchun O'zbrek tilidagi Qidiruv uchun sinonim so'zlar

@@ -1,0 +1,135 @@
+samsung, самсунг, sam sung, самсунг
+iphone, i phone, i-phone, айфон
+телефон, тел, telefone, telephone, telepon, telefon, telephon
+smartfon, smar, smart, smatf, smartfon, смар, смамрт, смарт,смартфон, smartphion, smartphon, smart phone, samrt fon, smart fon,
+Xiaomi, Xiaom, mi, ксиаоми, ксиаом, ми
+Apple, aple, алпе, алпе, апил, аппл, аппел, аппил
+OPPO, opo, опппо, оппо, опо
+Vivo, vivi, виво, виви
+Tecno, tekno, texno, teckno, техно, текно
+Alcatel, alkatel, алкател, алка
+TCL, тсл, tsl
+Poco, pocco, pokko, poko, поко, покко
+Blackview, blakvyu, блаквью
+BQ, biqyu, бикю
+Huawei, huavey, хуавей, хувей
+Planshet , planset, planshit, планшет, плашит
+Artel, артле, артел, arte,artle
+Shivaki, shikak, shivak, shvaki,шиваки, шивак, шваки
+ipad, i-pad, I pad , айпад, айпод, ай пад, ай под
+LG, лЖ, ЛДЖ, элджи
+Avalon, avaln, valon, авалон, Валон, авалн,
+Zizoo, zi zoo, zizu, zizo, zizi, зизу, зи зу, зи зи,
+Ziffler, zifer, zifler, зифер, зифлер, зифэр, зиффэр, зифлээр
+ZANUSSI, zanusi, zannusi, zanuci, заннуси, зануси
+Wilo, willo, vilo, viloo, вило, вилло, виллу, вилу
+Whirlpool, Wirlpool, Whirlpol, Wirlpol, Whrilpool, Whirl pool, врилпул, вирпул, ври пул
+Western Digital, WesternDigital, vestern Digital, Western Dijital, Western Digitl, Westrn Digital, Westrn Digitl, vestern Digitl, Western Digital, вестерн дижитал, вестрн дижитал, вестрндижитал
+Welkin, Welkn, Welken, великн, велкин, вэлкин
+Vitech, vitek, vitec, витек, витэк, видек
+Vitek, vitec, витек, витэк, видек, vitech
+Vista, vist, viste, виста, вист, вста
+ViewSonic, View Sonic, VyuSonic, Vyu Sonic, viwsonic, вьюсоник, вюсоник
+Viessmann, Viesmann, Viessman, Viesman, vesman, veessman, vyesman,viyesman, вьесман, весман
+TP-Link, TP link, tplink, tblink, ТП Линк, ТП-линк, тплинк
+Tosot, tost, tosto, тосто, тост,тосот
+Toshiba, Tashiba, Toshba, Tosheba, тошиба, ташиба, ташба
+Tenda, tendu, tendo, тендо, тэндо, тэн-до,тенда, тэнда
+Technobox,Techno-box, Tecnobox,Tecno-box, teknobox, tekno-box, texnobox,texno-box, tecknobox, teckno-box, технобокс,техно-бокс,текнобокс,текно-бокс, техно-бокс, текно-бокс
+Team Group,Teem Group, TeamGroup, Team-Group,TeamGrup, Team Grup, Team Grop, тимгруп, Теам Груп, Теем Групп, теамгруп
+Sven, свен, свин, свэн, seven, сэвэн, свен
+Spire, Spayr, sapre, spare, speri, спайр, спейр, спери
+SONY, сони, soni, sonii, coni
+Sitronic, Setronic, Sitronik, Stronic, Stronik, ситроник, строник
+Silicon Power, SiliconPower, Silcon Power,  SilconPower, Slicon Power, SliconPower, Slicon Pover, silikon pover, silicon pover, силикон повер, силкон повер, силконповер
+Seagate, Segat,segeyt, sigeyt, seageyt, sigate, сигэйт, сигейт, сигет, сигэт
+Scarlett, Scarlet, Skarlett, Scarlet, Skarlet, скарлет, сарлэт, скарлэт
+Scanjet, Skanjet, Scanget, Skanget, сканжет, скандджет,skanjet,  scanjet, scan, csan-jet, scan jet, skan jet
+SanDisk, San Disk, SanDick, candisk, sandik, сандиск, сандик
+Royal, Roal, ройал, райал
+Ricoh, rikoh, rikox, ricox, рикох, рико,rico, riko
+Redmi, redme, mi, me, red, red mi, rd me, red me, red- me, red-mi, редми, рэдми, ред ми, ред-ми, ми
+Realme, relme, real-me, real-mi, риалми, рилми
+Polaris, Polariс, поларис, полис
+PNY, peny, peniy, ПНУ, ПНЙ
+Platinum, platunum, platin, платинум, плтин, платин
+Pioneer,Pioner, Piyoner, Piyoneer,Pyoneer, пионер, пийонер
+Philips, filips, phileps, fileps,  филипс, филип
+Partner, Partnyor, Partnor, партнер, партнйор, партнор, партнёр
+Panasonic, Panasonik, Panaconik, Panaconic,  панасоник, пансоник, поносоник
+Palm, polm, палм
+OnePlus, one plus, one plyus, oneplyus, one+, вонплюс, вонплас,вон+
+Olmio, olimo, olmoi, олмои, олмио
+Nokia, Noki, nokio, nakio,  нокиа, нокио
+Nakamichi, Nakamchi, nakamji, накмчи, накамжи, накамичи
+MyTech, mytech, mytek, mytec, my tech, my tech, my tek, my tec, майтек, майтэк, майдек, май тек, майтэк, май дек
+MULLER, MULER, MULLERR, MALLER, МУЛЛЕР, МАЛЛЕР, МАЛЕР, МУЛЛЕР
+MSI, mse, mce, mci, Мси
+Midea, idea, media, M-idea, M idea, мидеа, идеа, М-идеа, М идеа
+Microlab, Mikrolab, mikro lab, mikro-lab, micro lab, micro-lab, микролаб, микро-лаб, мисролаб, миро-лаб, мисро лаб
+Mercusys, Merkusys, Merkusy, merkus, mercus,
+
+
+телефон, тел, telefone, telephone, telepon, telefon, telephon, tel, phone
+iPad Pro, i-pad pro, i-pod pro, ipodpro, ipadpro, айподпро, ай под про, айпад про, айпадпро, ай пад про
+iPad Air, i-pad air, i-pod air, ipodair, ipadair, айподаир, айподайир, ай под аир, айпод айир, айпадаир, айпад аир, айпад айир, ай пад аир
+buds, airbuds, bads, наушники, naushniki, бадс, quloqchinlar, кулокчинлар, наушник, naushnik, Aksessuarlar, асксесуар, асксесуарлар
+smartwatch, martsoat, smartsoat, watch,  смартватч, смартвотч, ватч, смартсоат, ssamtwatch, samrtwatch, smart-watch, smart-soat, смарт-соат, смарт часы, часы смарт
+Ultrabook, ultrabuk, ultrabuck,  ультрабук, ултрабук, Ultr book, ultra book, ultra buk
+Macbook, mac book, makbook, mak book, macbuk, mac buk,  макбук, мак бук
+ThinkBook, tinkbook, tinbook, think book, thinkbuk, think buk, тинбук, тин убк, тин бук
+Magicbook, magikbook, magik book, magic book, magikbuk,magicbuk, мажикбук, мажик бук
+Televizor, televiz, telek, телевизор, телек, телвизорлар, televizorlar
+Kir yuvish mashinasi, kiryuvish mashinasi, kir yuvish mashina, kir mashina, кирювуш машинаси, кир ювиш машинаси, кир ювши машина, кирювишмашина, стиральная машина, стиралка
+Personal kompyuter, kompyuter, komp, personalniy kompyuter, комп, компютер, компьютер, компьтере, персонланыей комьютер, компьютер персональный, компютер персоналный
+Apple Mac mini, aplle macmini, aple macmini, aplemacmini, аплекмакмини, пале мак мини, апел мак мини
+Mi box, mibox, miboks, mibokc, мибоскб, мибокс , ми бокс, ми боск,mi boks
+Pristavka, pristavkasi, prestevka, privdtka, pristaka, pristaka, pristavka, приставка, приставка, преставка
+Muzlatkich, mzlatgich, muzlatkichla, музлатгич, музлаткич, музлоткич, xolodilnik, holodilnik
+Gaz plitalar, gaz plata, gazplita, gaz plita, gaz, газ плиталар, газ плита, плита, plita
+Mini pech, pech, minipech, мини печ, мини печь, минипечь, минипеч, duvobka, duxovka
+Plitalar,plitala, platalat, plita, плиталар, плита, плитала
+Pechlar, pech, pechla, печлар, печ, печьлра, печьлар, печла
+Idish yuvish mashinalari, Idishyuvish mashinalari, Idish yuvish mashinalar, Idish yuvsh mashnalari,Idish yuvsh mashinalari,Idish yuvish mashinalar,Idish yuvish mashina, yuvish mashinalari,Idish yuvish, Идиш ювиш машиналар, Идиш ювш машиналар,Идиш ювиш машина, Идиш ювиш машинала,ювиш машина, Идиш ювиш
+Oshxona havo tortgich,davlumbaz,Dudbo'ronlar, Dudbo'ron, Dudboronlar,havo tortgich, tortuvchi, хаво тортувчи, хаво тортгич, дудборонлар, дудбурон, дудборон, давлумбаз, ошхноа хаво торгич, ошхона хаво тортич, ошхона хаво тортгич
+Mikroto'lqinli pechlar, Mikroto'lqinlipechlar, Mikroto'lqin pechlar, Mikroto'lqinli pech, pechlar, pech, микротулкинли печлар, микротолкинли печлар, микротулкинли печ, печ, печлар,Mikrotolqinli pechlar, Mikro tolqinli pechlar, Mikroto'lqnli pechlar
+Blenderlar, blender, бленде, блндэр, блендэр, блендер,блендерлар, blendre
+Mikserlar, mikser, miiks, miks, micser, миксерлра, миксер, миксерлар
+Elektr go'sht maydalahich, go'sht maydalagich, Elektr gosht maydalagich, gosht maydalagich, gosht maydaliydigan, mesarobka, masorobka, elektr mesarobka, elektr masorobka,  Электр гушт майдалагич, Электр гошт майдалагич,гушт майдалагич, гошт майдалагич, месаробка, мясоробка, электр мясоробка, електр мясоробка
+Sharbat chiqargich, Sharbat chikargich, Sharbat chiqarguchi, Sharbat chiqaruvchi, sokovijimalka, шарбат чикаргич, шарбат чикаргувчи, шарбат чикарувчи, соковыжималка, соковыжималка, соко выжималка, соко выжымалка
+Tosterlar, toster, toosterlar, тостерлар, тостер, тоостер
+Elektr choynaklar va termo qozonlar, Elektr choynaklar, termo qozonlar, Elektr chaynaklar va termo qozonlar, Электр чойнаклар ва термо козонлар, Электр чойнаклар, Термо козонлар, термез, termez, Termopot, термопот
+O'rnatilgan pechlar, pechlar, orantilgan pechlar, pech, urnatilgan pech, Урнатилган печлар, орнатилган печлар,печ
+Multivarka, multvarka, multi varka, мультиварка, мултиварка
+Kofe qaynatgich, Kofeqaynatgich, coffe qaynatgich,coffee qaynatgich, кофе канйтагич, коффе кайнатувчи, кофе кайнатгич
+Kir yuvish mashinalari, Kiryuvish mashinalari, Kiryuvish mashina, Kir yuvish mashina, Кир ювиш машиналар, Кир ювиш машина, Кирювиш машиналар, avtomat kir yuvish mashinasi, kir moshina avtomat, kir mashina avtomat, Avtomatik kir yuvish mashinasi, автоматик кир ювиш машианси, автоматик кир ювиш машинаси, кир ювишм машинаси, кир машина автомат
+Кonditsioner, Кondisioner, konder, Кonditsionerlar, кондиционер, кондер, кондор, кнондиционерлар
+Havo tozalagich, xavo tozalagich, xavo tozalagichlar, havo tozlagichlar, хаво тозалагичлар, хаво тозалагич,хаво, havo, xavo
+Havo namlagichi, xavo namlagich, xavo namlagichi, havo namlagich, хаво намлагич, хаво намлагичи, хаво, havo, xavo
+Isitgich, Istgich, иситгич, истгич, иситкич,isitkich, istkich
+Ventilator, Ventlator, Ventilater, ventelyator, ventelyater,  вентилятор, вентиляторлар
+Suv isitgichlari, isitgichlar, isitgich, suv isitkichlari, isitkichlar, сув иситгичлар, иситгичлар,иситкичлар, иситкич, сув иситадиган, suv isitadigan
+Chang yutgichlar, Chang yutguchlar, Pilesos, Pelesos, chang yutuvchi, чанг ютгичлар, пылесос, пилисос
+Dazmol, bug'li dazmol, utug, utyug, dzmol, дазмол, бугли дазмол, утюг, утуг, утужек, utujok, utyujok, dazmallar, dazmollar
+Bug' tozalagichlar, bug tozaligichlar, bug tozalagich, bugtozlagich, bug'tozalagich, буг тозалагич, бугтозалагич, бугтозлавчи, буг тозаловчи
+Pol yuvish tozalagichlar
+Dumaloq nasos, nasoos, nasos, dumaloqnasos, nosos, dumaloq nosos, насос, думалок насос, носос
+Mahkamlagichlar, Mahkamgichlar,maxkamlagichlar, maxkamlagich, makamlakich, maxkamlakich, махкамлагич, макамлагич, махкамлагичлар, макамалагичлар
+Gaz qozonlari, gasqozonlari, gaz kozonlari, gaz qozon, gaz kozozn, kotyol, kotol, котел, котол, котёл, газ котел, газ котёл, газкотел
+Avtoshinalar, avtoshina, avto, shina, avtushina, автошиналар, автошина, авто, шина, аввтошуна
+Yuqori bosimli yuvish mashinalari, yuvish mashinalari, bosimli yuvish mashinalari, юкори босимли ювиш машиналар, босимли ювиш машиналар, ювиш машиналар, ювиш машина, босимли машина
+Avtomobil akustikasi, akustika, avto akustika, авто акустикаси, авто акустика, акустика
+Avtomobil signalizatsiyasi, Avto signalizatsiyasi, Avto signal, signalizatsiyasi, usilitel, усилитель, услител, авто сигнализация, авто сигнал, сигнализация
+Avtomobil gilami, Avto gilam, Avtomobilgilami, гиламча, авто гилами, автогилам, автомобил гилам, гилам
+Yuqori bosim apparati, Yuqori bosim apparati, bosim apparati, Yuqoribosim apparati,Yuqori bosimapparati,Yuqori bosimli qurilma, bosimli qurilma, Юкори босимли курилма, юкори босим аппарати, босим аппарати,
+Avtomobil radiolari, radio, avto radioalr, avtoradio, Магнитола, magnitola, авторадио, автомобил радиолари, авторадио
+Avtomobil akumlyatori, Avto akumlyatori, Avtomobil akumulyatori, Avto akumulyatori, akumlyatori,akumulator, автомобил акумулятори, авто акумлятор, акумлятор,автомобил акумлятор
+DVR, DVR bilan orqa ko'rinish oynasi,video yozuvchisi
+Velosipedlar, Velosiped,Velosipet, Velo, Velik, Velosipetlar, вилосипедлар, велосипед, вилосипет, вилосипедлар, Vilosipedlar, Vilosipet, вело,велик
+Elektrosamakat, samakat, Elektrsamakat,Elektro samakat, Elektr samakat, Электросамакат,  электрсамакат, самакат, электро самакат, электр самакат
+Rolikli konkilar, Roliklikonkilar, Roliklikonkilar, Roliki, konkilar, konki, Roliklar, роликли конкилар, роликлар, ролик, роликликонкилар, конки, конкилар, ролики
+Skeytbordlar, skeyt, ckeyt, skeybord, skeyt bord, skeybord, bord, skibord,  скейборд, бод, скиборд, скейбордлар, скибордлар
+Elektr soqol mashinasi, soqol mashinasi, Elektrsoqol mashinasi, soqolmashinasi, elektrbritva, elektrobritva, elektr britva, elektro britva, britva, электр сокол машинаси, сокол машинаси, электрскол машинаси, соколмашинаси, электрбритва, электробритва, бритва, электр бритва, электро бртива
+Epilatorlar, Epilator, Epelatorlar, Epilatori, эпилятор,епелятор, эпелятор, эплатор,эпелатор, епелато, эпиляторлар
+Soch quritgichlar, Soch kuritgichlar, Soch quritgichlar, fen, phen, соч куритгич, фен, сочкуритгич,  фенлар, соч куритгичлар,
+Trimmerlar, trimmm, trim, trimmer, trimerlar, тримерлар, трим, soch oladigan uskuna, soch oladigan, соч оладиган, сочолдиган
