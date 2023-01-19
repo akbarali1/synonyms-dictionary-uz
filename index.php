@@ -29,7 +29,8 @@ class Core
     public function printFile(...$inputs)
     {
         foreach ($inputs as $input) {
-            echo $input.' file: <a href="uz/'.$input.'" target="_blank">View</a><br>';
+            echo __DIR__.$input.PHP_EOL;
+            //            echo $input.' file: <a href="uz/'.$input.'" target="_blank">View</a><br>';
         }
     }
 
@@ -46,7 +47,9 @@ class Core
         if (!file_exists($dir) && !mkdir($dir, 0777, true) && !is_dir($dir)) {
             die('Failed to create directories...');
         }
+        $arr         = array_filter($arr);
         $json_encode = json_encode($arr, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+        //Array filter
         file_put_contents($dir.$json_name, $json_encode);
     }
 
