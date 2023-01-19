@@ -9,7 +9,9 @@
         "iphone",
         "i phone",
         "i-phone",
-        "айфон"
+        "айфон",
+        "iphon",
+        "ipon"
     ],
     [
         "телефон",
@@ -147,7 +149,8 @@
         "LG",
         "лЖ",
         "ЛДЖ",
-        "элджи"
+        "элджи",
+        "elji"
     ],
     [
         "Avalon",
@@ -467,7 +470,11 @@
         "рэдми",
         "ред ми",
         "ред-ми",
-        "ми"
+        "ми",
+        "xiyavmi",
+        "xiomi",
+        "ksyavmi",
+        ""
     ],
     [
         "Realme",
@@ -645,7 +652,9 @@
         "telefon",
         "telephon",
         "tel",
-        "phone"
+        "phone",
+        "sotka",
+        ""
     ],
     [
         "iPad Pro",
@@ -660,19 +669,19 @@
         "ай пад про"
     ],
     [
-        "iPad Air",
-        "i-pad air",
-        "i-pod air",
-        "ipodair",
-        "ipadair",
-        "айподаир",
-        "айподайир",
-        "ай под аир",
-        "айпод айир",
-        "айпадаир",
-        "айпад аир",
-        "айпад айир",
-        "ай пад аир"
+        "iPad",
+        "i-pad",
+        "i-pod",
+        "ipod",
+        "ipad",
+        "айпод",
+        "айпод",
+        "ай под",
+        "айпод",
+        "айпад",
+        "айпад",
+        "айпад",
+        "ай пад"
     ],
     [
         "buds",
@@ -687,7 +696,9 @@
         "naushnik",
         "Aksessuarlar",
         "асксесуар",
-        "асксесуарлар"
+        "асксесуарлар",
+        "quloqchin",
+        ""
     ],
     [
         "smartwatch",
@@ -704,7 +715,9 @@
         "smart-soat",
         "смарт-соат",
         "смарт часы",
-        "часы смарт"
+        "часы смарт",
+        "votch",
+        "vach"
     ],
     [
         "Ultrabook",
@@ -724,7 +737,9 @@
         "macbuk",
         "mac buk",
         "макбук",
-        "мак бук"
+        "мак бук",
+        "mac",
+        "makbuk"
     ],
     [
         "ThinkBook",
@@ -754,7 +769,16 @@
         "телевизор",
         "телек",
         "телвизорлар",
-        "televizorlar"
+        "televizorlar",
+        "telvizor",
+        "tilivizor",
+        "dilbuzor",
+        "dlbzor",
+        "tilvizor",
+        "dilibizor",
+        "telvizor",
+        "telivizor",
+        "dilbuzar"
     ],
     [
         "Kir yuvish mashinasi",
@@ -933,7 +957,8 @@
         "micser",
         "миксерлра",
         "миксер",
-        "миксерлар"
+        "миксерлар",
+        "maydalagich"
     ],
     [
         "Elektr go'sht maydalahich",
@@ -1183,7 +1208,8 @@
         "автошина",
         "авто",
         "шина",
-        "аввтошуна"
+        "аввтошуна",
+        "shinalari"
     ],
     [
         "Yuqori bosimli yuvish mashinalari",
@@ -1264,7 +1290,8 @@
     [
         "DVR",
         "DVR bilan orqa ko'rinish oynasi",
-        "video yozuvchisi"
+        "video yozuvchisi",
+        "dividi"
     ],
     [
         "Velosipedlar",
@@ -1382,6 +1409,7 @@
         "soch oladigan uskuna",
         "soch oladigan",
         "соч оладиган",
-        "сочолдиган"
+        "сочолдиган",
+        "mashinka"
     ]
 ]
